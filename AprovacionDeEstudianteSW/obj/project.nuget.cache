@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fB4nQlPlL7Y=",
+  "success": true,
+  "projectFilePath": "/home/aonis/Documentos/Universidad 2026/Software IV/Practicas/Praticas/AprovacionDeEstudianteSW/AprovacionDeEstudianteSW.csproj",
+  "expectedPackageFiles": [
+    "/home/aonis/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WP54qZKGxWk=",
+  "success": true,
+  "projectFilePath": "/home/aonis/Documentos/Universidad 2026/Software IV/Practicas/Praticas/DescuentoTiendaIf/DescuentoTiendaIf.csproj",
+  "expectedPackageFiles": [
+    "/home/aonis/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
