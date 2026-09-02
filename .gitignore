@@ -1,2 +1,20 @@
-.idea
-Practicas.sln
+# Compilación de .NET
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
