@@ -10,6 +10,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprovacionDeEstudianteSW", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaAUnEvento", "QUIZ1 ESTRUCTURAS SELECTIVAS\EntradaAUnEvento\EntradaAUnEvento.csproj", "{42068FD6-BE76-4E8A-BC7C-78E99DE047A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaAUnEventoSW", "EntradaAUnEventoSW\EntradaAUnEventoSW.csproj", "{8D6747B6-3A97-4423-957F-9405AE3AB8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeterminarElMayorDeCuatroNumerosIf", "DeterminarElMayorDeCuatroNumerosIf\DeterminarElMayorDeCuatroNumerosIf.csproj", "{0990CBCB-7B15-4DBD-9506-E69981C19584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeterminarElMayorDeCuatroNumerosSw", "DeterminarElMayorDeCuatroNumerosSw\DeterminarElMayorDeCuatroNumerosSw.csproj", "{A41B43BE-8939-49D6-A47A-D6533161265F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +42,17 @@ Global
 		{42068FD6-BE76-4E8A-BC7C-78E99DE047A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42068FD6-BE76-4E8A-BC7C-78E99DE047A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42068FD6-BE76-4E8A-BC7C-78E99DE047A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6747B6-3A97-4423-957F-9405AE3AB8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6747B6-3A97-4423-957F-9405AE3AB8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6747B6-3A97-4423-957F-9405AE3AB8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6747B6-3A97-4423-957F-9405AE3AB8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0990CBCB-7B15-4DBD-9506-E69981C19584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0990CBCB-7B15-4DBD-9506-E69981C19584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0990CBCB-7B15-4DBD-9506-E69981C19584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0990CBCB-7B15-4DBD-9506-E69981C19584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B43BE-8939-49D6-A47A-D6533161265F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B43BE-8939-49D6-A47A-D6533161265F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B43BE-8939-49D6-A47A-D6533161265F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B43BE-8939-49D6-A47A-D6533161265F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
